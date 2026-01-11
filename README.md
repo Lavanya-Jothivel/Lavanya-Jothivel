@@ -1,9 +1,7 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&center=true&width=700&lines=Hey%F0%9F%91%8B%2C+I'm+Lavanya.+You+are+Welcome!+%F0%9F%8C%9F" 
-    alt="Typing SVG" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20👋%20I'm%20Lavanya!&fontSize=42&font=Montserrat&color=linear-gradient(135deg,%20#FF3CAC,%20#784BA0,%20#2B86C5)&animation=twinkle" />
 </h1>
+
 
 <br/>
 
