@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20👋%20I'm%20Lavanya!&fontSize=34&font=Poppins&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hey%20👋%20I'm%20Lavanya%20—%20You%20are%20Welcome!&fontSize=32&fontAlignY=50&font=Poppins&color=gradient" />
 </h1>
-
 
 
 <br/>
