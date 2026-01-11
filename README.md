@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20👋%20I'm%20Lavanya!&fontSize=34&font=Poppins&color=gradient" />
-<br/>
+</h1>
+
 
 <div align="center">
   <img 
