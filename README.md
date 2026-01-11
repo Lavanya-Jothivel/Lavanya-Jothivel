@@ -1,9 +1,10 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Lavanya!;You+are+Welcome+🌟"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Lavanya.;You+are+Welcome!+🌟&gradient=true&colors=8A2BE2,FF69B4,1E90FF"
     alt="Typing SVG"
   />
 </h1>
+
 
 
 <br/>
