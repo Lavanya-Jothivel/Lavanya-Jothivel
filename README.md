@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=Hey%F0%9F%91%8B%2C+I'm+Lavanya.+You+are+Welcome!+%F0%9F%8C%9F" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Lavanya!;You+are+Welcome+🌟"
+    alt="Typing SVG"
   />
 </h1>
+
 
 <br/>
 
@@ -18,7 +19,6 @@
 
 <p align="center">
   <em>
-    👋 Welcome, Tech Explorer! <br/>
     Technology evolves every day, and this space is created to keep up with that change. <br/>
     From fundamentals to <strong>trending technologies</strong>, this repository is all about learning, growing, and staying future-ready.
   </em>
@@ -74,8 +74,3 @@ Learning, consistency, and growth are my core values.
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lavanya-Jothivel&theme=default&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lavanya-Jothivel&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-Jothivel&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
