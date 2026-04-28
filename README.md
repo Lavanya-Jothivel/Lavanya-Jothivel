@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20👋%20I'm%20Lavanya!&fontSize=34&font=Poppins&color=gradient" />
 </h1>
 
-
 <div align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Lavanya-Jothivel&style=flat-square&color=blue" 
@@ -19,6 +18,7 @@
   </em>
 </p>
 
+---
 
 ## 💫 About Me:
 A curious learner who believes that technology evolves every day.  
@@ -27,13 +27,30 @@ Learning, consistency, and growth are my core values.
 
 <br><br>
 
+---
 
 ## 🌐 Socials & Contact:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-jothivel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyajayakodi@gmail.com)
 
+---
 
 ## 💻 Tech Stack:
+
+### 🚀 AI/ML & Data Science
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge)
+
+---
+
 #### Front End
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -43,6 +60,7 @@ Learning, consistency, and growth are my core values.
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
 
 #### Back End
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
@@ -53,19 +71,20 @@ Learning, consistency, and growth are my core values.
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](link_to_hibernate_docs)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+---
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](link_to_mysql_workbench_docs)
 
-
+---
 
 #### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+---
 
 #### Build Tools
 [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)](link_to_apache_tomcat_docs)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
